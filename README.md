@@ -3,15 +3,15 @@ The WebAssembly compiled version of [Lingua Rust](https://github.com/pemistahl/l
 
 ## Installation
 ```sh
-npm install cookie-muncher
+npm install @bluzzi/lingua
 ```
 
 ```sh
-yarn add cookie-muncher
+yarn add @bluzzi/lingua
 ```
 
 ```sh
-pnpm install cookie-muncher
+pnpm install @bluzzi/lingua
 ```
 
 ## References
